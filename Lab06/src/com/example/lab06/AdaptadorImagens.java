@@ -1,3 +1,6 @@
+/***
+* @author Reinor César
+*/
 package com.example.lab06;
 
 import android.content.res.TypedArray;
